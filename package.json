@@ -1,0 +1,25 @@
+{
+  "name": "my-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFlo1981/My-Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFlo1981/My-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/JFlo1981/My-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1"
+  }
+}
